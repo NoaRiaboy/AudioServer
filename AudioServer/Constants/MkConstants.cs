@@ -1,6 +1,6 @@
 namespace AudioServer.Constants;
 
-public class MkConstants
+public static class MkConstants
 {
-    
+    public const int RecordingDeviceId = 0;
 }

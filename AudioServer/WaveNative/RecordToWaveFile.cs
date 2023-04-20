@@ -1,3 +1,6 @@
+using AudioServer.WaveNative.Header;
+using AudioServer.WaveNative.OpenAI;
+
 namespace AudioServer.WaveNative;
 
 public class RecordToWaveFile
